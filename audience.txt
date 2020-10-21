@@ -1,0 +1,11 @@
+Growing sponsorship
+The event's growth was evident even before it began when Twilio joined DigitalOcean and GitHub as a sponsor. Twilio is "widely recognized for their work shepherding developer communities," says Daniel Zaltsman, developer relations manager at DigitalOcean. "Having Twilio on board gave us the promotional reach and the funds to expand the program to the numbers we see today."
+
+Microsoft also participated by offering its own T-shirt giveaway for anyone who submitted a PR to a Microsoft open source repository. Since Microsoft's open source repos are hosted on GitHub, these PRs also counted toward the five PRs required to complete the Hacktoberfest challenge.
+
+Building community
+Hacktoberfest promotes not just contributions, but community. A participant at an event in India told Digital Ocean: "This year's Hacktoberfest was a blast! We got lots of our college mates to learn how to use Git and make a pull request. We organized a successful Hacktoberfest event in our college with over 100 people participating and more than half of them ending up making a pull request, most of them being freshman."
+
+Hacktoberfest "is about creating an inclusive community that builds together to make the world a better place," Zaltsman wrote on the DigitalOcean blog. "What happened during Hacktoberfest will have a lasting impact on people long after October 2018. This is why quality is preferred to quantity and why we'll continue to improve the program to support this core value."
+
+One of the improvements the team is working on for 2019 is reducing invalid pull requests, which accounted for about 3% of this year's contributions. But Zaltsman says the custom t-shirt rewards will remain a part of Hacktoberfest in 2019 and beyond.
